@@ -44,7 +44,8 @@ Les clients sont les personnes qui font du sport dans une salle de fitness ainsi
 ## Mockups
 
 
-![image](https://github.com/heg-web/frontend-polloshermanos/assets/107177068/de18da4c-dab1-4d93-b2b3-b0fb6177d8e2)
+![image](https://github.com/heg-web/frontend-polloshermanos/assets/107177068/20839d32-d766-42ba-845e-17b545aee2ea)
+
 
 
 
