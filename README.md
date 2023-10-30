@@ -16,22 +16,24 @@ notre projet est une application de fitness et de bien être qui permet les fonc
 Les clients sont les personnes qui font du sport dans une salle de fitness ainsi que les salles de sport qui peuvent mettre en place des programmes pré fait pour leurs clients.
 		
 ## Quels sont les besoin du client (jobs, pain, gains).
-### Jobs
-- Le client aimerai s'entrainer
+### Jobs (débutant)
+- Le client aimerai s'entrainer pour commencé a faire du sport
 - S'informer sur des exercices ou sur l'utilisation des machines
 - Se créer des programmes
+- Apprendre à s'entrainer
+- Suivre un programme pré-fait
 
-### Pains
-- Le client n'a pas de suivi de ces performances
+### Pains (débutant)
 - Engager un coach pour avoir des explications ou conseils coute cher
 - Les machines ne sont pas toujours facile a prendre en main
 - Le client ne sait pas quand et comment s'entrainer
+- Le client ne sait pas comment se faire un programme d'entrainement
 
-### Gains
-- Le client peut avoir un suivi de ces performances
+### Gains (débutant)
 - Le client peut s'informer sur des exercices gratuitement
 - Le client peut facilement trouver des explications sur des machines
 - Le client peut se créer des programmes d'entrainements detaillés
+- Le client peut suivre des programmes personnalisé créer par l'application
 		
 ## Comment votre solution va y répondre (à travers quelles fonctionnalités).
 - Scanner un code QR d'une machine permet au client d'avoir une description des exercices qui peuvent être effectués sur cette machine et des vidéos explicatives.
@@ -42,4 +44,6 @@ Les clients sont les personnes qui font du sport dans une salle de fitness ainsi
 ## Mockups
 
 
-![image](https://github.com/heg-web/frontend-polloshermanos/assets/107177037/44cf6c16-ca20-40c2-8b55-9c5d36c8d8dc)
+![image](https://github.com/heg-web/frontend-polloshermanos/assets/107177037/00f04b3e-03cd-4e5b-be98-b93dd45d8718)
+
+
