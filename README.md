@@ -1,16 +1,48 @@
-# goofyt_app
+# Goofyt
 
-A new Flutter project.
+Goofyt est une application mobile développée avec **Flutter** pour organiser ses entraînements.
 
-## Getting Started
+## ✨ Fonctionnalités
 
-This project is a starting point for a Flutter application.
+- 📅 **Calendrier** pour planifier ses entraînements
+- 🏋️ **Liste d'exercices** récupérée depuis une API
+- 📝 **Description** de chaque exercice
+- 🖼️ **Image** pour visualiser les exercices
+- 📱 Disponible sur **Android**
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- REST API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Installation
+
+Cloner le projet :
+
+```bash
+git clone https://github.com/OmarGriggio/goofyt_app.git
+cd goofyt_app
+```
+
+Installer les dépendances :
+
+```
+flutter pub get
+```
+
+Lancer l'application :
+
+```
+flutter run
+```
+
+📱 Play Store
+
+Goofy est disponible sur le Google Play Store.
+
+🔗 Télécharger Goofy
+
+👨‍💻 Auteur
+
+Omar Griggio
