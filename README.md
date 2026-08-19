@@ -41,8 +41,6 @@ flutter run
 
 Goofy est disponible sur le Google Play Store.
 
-🔗 Télécharger Goofy
-
 👨‍💻 Auteur
 
 Omar Griggio
